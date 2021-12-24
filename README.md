@@ -2,6 +2,26 @@
 This is Minecraft bot attack that use to check stress of your Minecraft server
 
 
+## Features
+
+* Graphical user interface
+* Command line interface
+* Configurable amount and join delay
+* Configurable target
+* Configurable name format or name list
+* LogPanel to see errors directly
+* Test with Spigot, Paper
+* Disconnects gracefully after the end
+* Automatically registers for cracked servers
+* Supports SOCKS proxies
+* Free
+* Open source
+
+## Requirements
+
+* Java 9
+* Minecraft 1.11+ server
+
 ## Command Line Usage
 To run LambdaAttack from the command line without a GUI, enter  
 `java -jar lambdaattack.jar <options>`.
